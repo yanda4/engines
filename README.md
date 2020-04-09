@@ -1,5 +1,9 @@
+<!doctype = html>
 <html>
-<!-- Global site tag (gtag.js) - Google Analytics -->
+<head>
+  <title>SELPP Engines</title>
+  <meta charset="utf-8">
+  <!-- Global site tag (gtag.js) - Google Analytics -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-163192198-1"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -8,6 +12,8 @@
 
   gtag('config', 'UA-163192198-1');
 </script>
+</head>
+
 # engines
 Manual for SELPP engine part
 
